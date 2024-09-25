@@ -6,4 +6,4 @@ formatted
         in a 
     wierd 
                 way         
-                
+                this is appended stringwrite ittttt !!
